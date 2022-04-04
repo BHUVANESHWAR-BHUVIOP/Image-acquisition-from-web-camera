@@ -133,14 +133,14 @@ cv2.destroyAllWindows()
 
 
 ### iii) Display the video by resizing the window
-![Output](rotate.jpg)
+![Output](frame.jpg)
 </br>
 </br>
 
 
 
 ### iv) Rotate and display the video
-![Output](frame.jpg)
+![Output](rotate.jpg)
 </br>
 </br>
 
